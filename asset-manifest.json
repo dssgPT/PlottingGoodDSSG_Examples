@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/qualidadedear-app/static/css/main.7bd35c57.css",
-    "main.js": "/qualidadedear-app/static/js/main.75bdd8ea.js",
-    "static/js/787.75de6696.chunk.js": "/qualidadedear-app/static/js/787.75de6696.chunk.js",
-    "index.html": "/qualidadedear-app/index.html",
-    "main.7bd35c57.css.map": "/qualidadedear-app/static/css/main.7bd35c57.css.map",
-    "main.75bdd8ea.js.map": "/qualidadedear-app/static/js/main.75bdd8ea.js.map",
-    "787.75de6696.chunk.js.map": "/qualidadedear-app/static/js/787.75de6696.chunk.js.map"
+    "main.css": "/PlottingGoodDSSG_Examples/static/css/main.7bd35c57.css",
+    "main.js": "/PlottingGoodDSSG_Examples/static/js/main.9ccbb158.js",
+    "static/js/787.4660f591.chunk.js": "/PlottingGoodDSSG_Examples/static/js/787.4660f591.chunk.js",
+    "index.html": "/PlottingGoodDSSG_Examples/index.html",
+    "main.7bd35c57.css.map": "/PlottingGoodDSSG_Examples/static/css/main.7bd35c57.css.map",
+    "main.9ccbb158.js.map": "/PlottingGoodDSSG_Examples/static/js/main.9ccbb158.js.map",
+    "787.4660f591.chunk.js.map": "/PlottingGoodDSSG_Examples/static/js/787.4660f591.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7bd35c57.css",
-    "static/js/main.75bdd8ea.js"
+    "static/js/main.9ccbb158.js"
   ]
 }
