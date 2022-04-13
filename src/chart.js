@@ -141,7 +141,7 @@ export default function Chart(props) {
                     </>
                   );
                 })}
-                {contagemEstacao < 1 ? (
+                {contagemEstacao < 1 && props.selectedEstacao !== "-" ? (
                   <>
                     <text
                       x={width / 4}
