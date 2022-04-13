@@ -1,6 +1,6 @@
 {
-  "name": "seca-app",
-  "homepage": "http://datarc.github.io/seca-app",
+  "name": "PlottingGoodDSSG_Examples",
+  "homepage": "https://dssgpt.github.io/PlottingGoodDSSG_Examples/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
