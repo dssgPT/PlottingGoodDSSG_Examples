@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PlottingGoodDSSG_Examples/static/css/main.7bd35c57.css",
-    "main.js": "/PlottingGoodDSSG_Examples/static/js/main.8f6e1195.js",
+    "main.css": "/PlottingGoodDSSG_Examples/static/css/main.302d6055.css",
+    "main.js": "/PlottingGoodDSSG_Examples/static/js/main.bfdc68c0.js",
     "static/js/787.4660f591.chunk.js": "/PlottingGoodDSSG_Examples/static/js/787.4660f591.chunk.js",
     "index.html": "/PlottingGoodDSSG_Examples/index.html",
-    "main.7bd35c57.css.map": "/PlottingGoodDSSG_Examples/static/css/main.7bd35c57.css.map",
-    "main.8f6e1195.js.map": "/PlottingGoodDSSG_Examples/static/js/main.8f6e1195.js.map",
+    "main.302d6055.css.map": "/PlottingGoodDSSG_Examples/static/css/main.302d6055.css.map",
+    "main.bfdc68c0.js.map": "/PlottingGoodDSSG_Examples/static/js/main.bfdc68c0.js.map",
     "787.4660f591.chunk.js.map": "/PlottingGoodDSSG_Examples/static/js/787.4660f591.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bd35c57.css",
-    "static/js/main.8f6e1195.js"
+    "static/css/main.302d6055.css",
+    "static/js/main.bfdc68c0.js"
   ]
 }
