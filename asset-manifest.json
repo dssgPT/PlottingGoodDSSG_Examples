@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PlottingGoodDSSG_Examples/static/css/main.dc0b92b1.css",
-    "main.js": "/PlottingGoodDSSG_Examples/static/js/main.ffdd8ba1.js",
+    "main.js": "/PlottingGoodDSSG_Examples/static/js/main.12777cb0.js",
     "static/js/787.4660f591.chunk.js": "/PlottingGoodDSSG_Examples/static/js/787.4660f591.chunk.js",
     "static/media/5.jpeg": "/PlottingGoodDSSG_Examples/static/media/5.9ce76b9a95c5218eb980.jpeg",
     "static/media/6.jpeg": "/PlottingGoodDSSG_Examples/static/media/6.aae8430b0a99014c40c6.jpeg",
@@ -13,14 +13,16 @@
     "static/media/3.jpeg": "/PlottingGoodDSSG_Examples/static/media/3.0d51f7721373dad846d3.jpeg",
     "static/media/1.jpeg": "/PlottingGoodDSSG_Examples/static/media/1.3801f5ddd4e3141ccbcb.jpeg",
     "static/media/liberdade.png": "/PlottingGoodDSSG_Examples/static/media/liberdade.50479baf92b0aedb01ae.png",
+    "static/media/partos_snipet.jpg": "/PlottingGoodDSSG_Examples/static/media/partos_snipet.d102dae9d7f371eee188.jpg",
     "static/media/poluicao.png": "/PlottingGoodDSSG_Examples/static/media/poluicao.18b677afe0a6b73fbaae.png",
+    "static/media/viz_partos.png": "/PlottingGoodDSSG_Examples/static/media/viz_partos.a1d9d481783f0c25ddfb.png",
     "index.html": "/PlottingGoodDSSG_Examples/index.html",
     "main.dc0b92b1.css.map": "/PlottingGoodDSSG_Examples/static/css/main.dc0b92b1.css.map",
-    "main.ffdd8ba1.js.map": "/PlottingGoodDSSG_Examples/static/js/main.ffdd8ba1.js.map",
+    "main.12777cb0.js.map": "/PlottingGoodDSSG_Examples/static/js/main.12777cb0.js.map",
     "787.4660f591.chunk.js.map": "/PlottingGoodDSSG_Examples/static/js/787.4660f591.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc0b92b1.css",
-    "static/js/main.ffdd8ba1.js"
+    "static/js/main.12777cb0.js"
   ]
 }
